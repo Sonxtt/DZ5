@@ -5,6 +5,6 @@
 
 int main()
 {
-    std::cout << subtraction(5, 10);
+    
 }
 
